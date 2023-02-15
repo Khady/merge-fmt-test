@@ -2,3 +2,6 @@
 (name aaaa)
 (libraries unix)
 (public_name pppp))
+
+(library
+(name liblib))
